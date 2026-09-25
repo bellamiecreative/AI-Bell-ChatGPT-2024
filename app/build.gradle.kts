@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.bellamie.aibell"
-    compileSdk = 36
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.bellamie.aibell"
